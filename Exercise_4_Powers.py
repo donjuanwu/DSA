@@ -30,7 +30,7 @@ def print_power_10():
     print()
    
     while True:
-        number = input("Enter a number: ")
+        number = input("Enter an integer number: ")
         if (number == ""):
             break
         else:
